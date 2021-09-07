@@ -4,7 +4,7 @@ You will briefly pitch your project idea to the whole class. You should have a d
 1. **What**: A description of the dataset. What type of dataset is it? What are the items, and what is the primary item type? What are the attributes, and how does their type affect the potential types of visualizations that can be created to explore this dataset?
 1. **Why**: A description of the goals and tasks. What are the domain-specific goals? What good can an analysis or presentation of this dataset yield? This should be specified as a few broad questions that relate specifically to the domain. 
 
-A short description of your pitch (250-500 words) is due before class as a submission to Github. In this document, you need to summarize your pitch, including the information requested above. The only acceptable file formats are markdown (md), text (txt), or PDF.
+A short description of your pitch (250-500 words) is due before class as a submission to Github. In this document, you need to summarize your pitch, including the information requested above. Submit your document as a PDF. For all assignments involving written reports, use Times Roman 11 point type with normal margins, 1.5 line spacing. 
 
 ## Note
 While there are many fun, fascinating data sources available, I encourage you to pursue datasets that deal with significant social, civic, or environmental concerns.
